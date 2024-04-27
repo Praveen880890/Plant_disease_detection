@@ -1,3 +1,5 @@
-flask
-Flask-SQLAlchemy
 flask-login
+flask-sqlalchemy
+pillow
+scikit-learn
+tensorflow
